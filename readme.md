@@ -1,4 +1,4 @@
-# **Working with emote repositories**
+# **Working with remote repositories**
 
 1. Create an account on GitHub
 2. Create local repository
